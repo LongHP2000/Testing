@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The BigWatch - Your ultimate smartwatch for staying connected, tracking fitness, and managing your day with style and efficiency.">
+    <title>BigWatch - Your Personal Command Center | VeryBigCorp</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <section aria-labelledby="logo-section">
+            <img src="logo.png" alt="VeryBigCorp company logo" class="logo" width="100">
+        </section>
+        <h1>BigWatch</h1>
+        <p class="tagline">Your Personal Command Center on Your Wrist</p>
+    </header>
+    
+    <main>
+        <section aria-labelledby="hero">
+            <img src="../assets/big-watch-01.jpg" alt="BigWatch smartwatch on wrist displaying digital time, heart rate monitor, and notification alerts against a clean white background" width="800">
+        </section>
+
+        <section aria-labelledby="command-center">
+            <h2 id="command-center">Your Personal Command Center</h2>
+            <img src="../assets/big-watch-02.jpg" alt="BigWatch touchscreen interface showing customizable dashboard with app icons, weather widget, and fitness tracking metrics in a modern dark theme" width="600">
+            <p>
+                Take control of your day with The BigWatch, the ultimate smartwatch for the modern individual. 
+                Seamlessly integrated with the VeryBigCorp ecosystem, it puts everything you need right at your 
+                fingertips. From staying connected to tracking your fitness goals, The BigWatch empowers you to 
+                live life on your terms. With its stylish design and intuitive interface, it's more than just a 
+                watch - it's your personal command center, keeping you in control every step of the way.
+            </p>
+        </section>
+
+        <section aria-labelledby="stay-connected">
+            <h2 id="stay-connected">Stay Connected, Stay Active</h2>
+            <img src="../assets/big-watch-03.jpg" alt="BigWatch fitness and activity tracking features" width="600">
+            <p>
+                Elevate your lifestyle with The BigWatch, your all-in-one companion for staying connected and 
+                staying active. Whether you're hitting the gym or hitting the town, its sleek design and advanced 
+                features make it the perfect accessory for any occasion. Track your workouts, monitor your health, 
+                and stay connected with notifications from your favorite apps - all from your wrist. With its 
+                seamless integration into the VeryBigCorp ecosystem, The BigWatch is more than just a smartwatch - 
+                it's your key to a healthier, more connected life.
+            </p>
+        </section>
+
+        <section aria-labelledby="ultimate-experience">
+            <h2 id="ultimate-experience">The Ultimate Wearable Experience</h2>
+            <img src="../assets/big-watch-04.jpg" alt="BigWatch wearable technology in stylish design" width="600">
+            <p>
+                Experience the future of wearable technology with The BigWatch. Engineered for performance and 
+                designed for style, it's the ultimate companion for your active lifestyle.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 VeryBigCorp. All rights reserved.</p>
+    </footer>
+</body>
+</html>
